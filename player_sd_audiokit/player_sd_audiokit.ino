@@ -6,6 +6,8 @@
  * class AudioBoardStream - https://pschatzmann.github.io/arduino-audio-tools/classaudio__tools_1_1_audio_board_stream.html
  * class AudioPlayer - https://github.com/pschatzmann/arduino-audio-tools/wiki/The-Audio-Player-Class
  * class AudioSourceSD - https://pschatzmann.github.io/arduino-audio-tools/classaudio__tools_1_1_audio_source_s_d.html
+ *
+ * I2SCodecConfig - cfg object class. https://pschatzmann.github.io/arduino-audio-tools/structaudio__tools_1_1_i2_s_codec_config.html
  */
 
 #include "AudioTools.h" // https://github.com/pschatzmann/arduino-audio-tools
