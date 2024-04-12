@@ -37,3 +37,6 @@ Both the input and output of audio are handled via Arduino streams, so you can p
 You can build your own sketch by replacing the input (source) and/or the output (sink) with an alternative implementation, or you can add a VolumeStream into the chain to control the volume.
 
 For example, you can have an SD card source(input) and a CSV file stream as the output.
+
+Here is a link to a list of the different implementations of audio sources and sinks:
+[Audio-Sources-and-Sinks](https://github.com/pschatzmann/arduino-audio-tools/wiki/Audio-Sources-and-Sinks)
