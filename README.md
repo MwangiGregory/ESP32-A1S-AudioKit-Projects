@@ -40,3 +40,11 @@ For example, you can have an SD card source(input) and a CSV file stream as the 
 
 Here is a link to a list of the different implementations of audio sources and sinks:
 [Audio-Sources-and-Sinks](https://github.com/pschatzmann/arduino-audio-tools/wiki/Audio-Sources-and-Sinks)
+
+# Examples naming convention
+
+All examples follow the following naming convention: "scenario type"-"source"-"destination". For the scenario types we might have base (using basic api functionality), stream for examples using Streams and test for the test cases.
+
+For the source we currently have adc for analog input devices like analog microphones, i2s for digital input devices (e.g. digital microphones), file for SD files and a2dp for input from Bluetooth A2DP (e.g. from a Mobile Phone).
+
+For the destination we use dac for analog output (e.g. to an amplifier), i2s for digital output devices (e.g. an external DAC), file for SD files and a2dp for output to Bluetooth A2DP (e.g. a Bluetooth Speaker).
