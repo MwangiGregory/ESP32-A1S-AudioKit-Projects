@@ -1,6 +1,6 @@
 # ESP32-A1S-AudioKit-Projects
 
-This section contains a collection of well-documented Arduino starter sketches that utilize all the available audio functionality on the board.
+This section contains a collection of well-documented Arduino starter sketches that utilize all the available audio functionality on the ESPA1S Audio kit board.
 
 ## Dependencies
 
