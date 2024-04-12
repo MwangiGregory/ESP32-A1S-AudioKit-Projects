@@ -28,6 +28,9 @@ To install Arduino libraries from zip files, you have two options:
 
 Remember to restart the Arduino IDE after installing the library.
 
+# Compilation
+Use the "ESP32 Dev Module" option under Tools->Board->esp32.
+
 # Basic Concepts
 
 [Comprehensive guide to the arduino-audio-tools lib](https://github.com/pschatzmann/arduino-audio-tools/wiki)
